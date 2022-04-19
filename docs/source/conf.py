@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Armonia Meta Chain'
+project = 'Armonia Meta Chain simplified Chinese'
 copyright = '2022, Armonia Blockchain Singapore'
 author = 'AMC'
 
