@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Armonia Blockchain Singapore
+# This file is distributed under the same license as the Armonia Meta Chain
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Armonia Meta Chain 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-19 18:58+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../history/history.rst:1
+msgid "get_actions"
+msgstr ""
+
+#: ../history/history.rst:3
+msgid "get_transaction"
+msgstr ""
+
+#: ../history/history.rst:5
+msgid "get_key_accounts"
+msgstr ""
+
+#: ../history/history.rst:7
+msgid "get_controlled_accounts"
+msgstr ""
+

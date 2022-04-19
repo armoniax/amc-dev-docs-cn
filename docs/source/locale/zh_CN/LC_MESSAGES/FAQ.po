@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Armonia Blockchain Singapore
+# This file is distributed under the same license as the Armonia Meta Chain
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Armonia Meta Chain 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-19 18:58+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../FAQ.rst:2
+msgid "FAQ"
+msgstr ""
+
+#: ../FAQ.rst:4
+msgid ""
+"`What kind of technology platform is Armonia? <FAQ/FAQ.html#What kind of "
+"technology platform is Armonia?>`__"
+msgstr ""
+
+#: ../FAQ.rst:7
+msgid ""
+"`Armonia is a multi-chain platform. How is the mother chain designed? "
+"<FAQ/FAQ.html#Armonia is a multi-chain platform. How is the mother chain "
+"designed?>`__"
+msgstr ""
+
+#: ../FAQ.rst:10
+msgid ""
+"`How are the child chains of Armonia designed? <FAQ/FAQ.html#How are the "
+"child chains of Armonia designed?>`__"
+msgstr ""
+
+#: ../FAQ.rst:13
+msgid ""
+"`Regarding the multi-chain hierarchical structure used by Armonia, how to"
+" realize interconnection between chains? <FAQ/FAQ.html#Regarding the "
+"multi-chain hierarchical structure used by Armonia, how to realize "
+"interconnection between chains?>`__"
+msgstr ""
+
+#: ../FAQ/FAQ.rst:2
+msgid "What kind of technology platform is Armonia?"
+msgstr ""
+
+#: ../FAQ/FAQ.rst:4
+msgid ""
+"Armonia is composed of the mother chain (Armonia Meta Chain) and other "
+"isomorphic or heterogeneous child chains (Armonia Child Chain). Efficient"
+" bidirectional cross-chain of assets is realized between mother chain and"
+" child chains as well as among the child chains, forming a mother-child "
+"multi-chain technology platform."
+msgstr ""
+
+#: ../FAQ/FAQ.rst:13
+msgid "Armonia is a multi-chain platform. How is the mother chain designed?"
+msgstr ""
+
+#: ../FAQ/FAQ.rst:15
+msgid ""
+"Armonia Meta Chain adopts APoS consensus mechanism and WASM virtual "
+"machine and is designed with low transaction model and unique account "
+"model."
+msgstr ""
+
+#: ../FAQ/FAQ.rst:20
+msgid "How are the child chains of Armonia designed?"
+msgstr ""
+
+#: ../FAQ/FAQ.rst:22
+msgid ""
+"Armonia's child chains are quickly constructed from the provided L0 SDK, "
+"which can be isomorphic or heterogeneous with the mother chain. Other "
+"independent public chains such as Bitcoin can also be integrated into "
+"child chains, forming a multi-chain architecture altogether."
+msgstr ""
+
+#: ../FAQ/FAQ.rst:28
+msgid ""
+"Regarding the multi-chain hierarchical structure used by Armonia, how to "
+"realize interconnection between chains?"
+msgstr ""
+
+#: ../FAQ/FAQ.rst:30
+msgid ""
+"Armonia provides L0-base as a general transaction routing module, which "
+"can quickly identify and process running nodes of a single chain."
+msgstr ""
+

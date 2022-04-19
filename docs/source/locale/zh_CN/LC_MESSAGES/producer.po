@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Armonia Blockchain Singapore
+# This file is distributed under the same license as the Armonia Meta Chain
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Armonia Meta Chain 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-19 18:58+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../producer/producer.rst:1
+msgid "pause"
+msgstr ""
+
+#: ../producer/producer.rst:3
+msgid "resume"
+msgstr ""
+
+#: ../producer/producer.rst:5
+msgid "paused"
+msgstr ""
+
+#: ../producer/producer.rst:7
+msgid "get_runtime_options"
+msgstr ""
+
+#: ../producer/producer.rst:9
+msgid "update_runtime_options"
+msgstr ""
+
+#: ../producer/producer.rst:11
+msgid "add_greylist_accounts"
+msgstr ""
+
+#: ../producer/producer.rst:13
+msgid "remove_greylist_accounts"
+msgstr ""
+
+#: ../producer/producer.rst:15
+msgid "get_greylist"
+msgstr ""
+
+#: ../producer/producer.rst:17
+msgid "get_whitelist_blacklist"
+msgstr ""
+
+#: ../producer/producer.rst:19
+msgid "set_whitelist_blacklist"
+msgstr ""
+
+#: ../producer/producer.rst:21
+msgid "get_integrity_hash"
+msgstr ""
+
+#: ../producer/producer.rst:23
+msgid "create_snapshot"
+msgstr ""
+
+#: ../producer/producer.rst:25
+msgid "get_scheduled_protocol_feature_activations"
+msgstr ""
+
+#: ../producer/producer.rst:27
+msgid "schedule_protocol_feature_activations"
+msgstr ""
+
+#: ../producer/producer.rst:29
+msgid "get_supported_protocol_features"
+msgstr ""
+
+#: ../producer/producer.rst:31
+msgid "get_account_ram_corrections"
+msgstr ""
+
