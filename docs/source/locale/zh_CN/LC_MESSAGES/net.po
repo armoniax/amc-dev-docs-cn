@@ -20,17 +20,17 @@ msgstr ""
 
 #: ../net/net.rst:1
 msgid "connect"
-msgstr ""
+msgstr "连接"
 
 #: ../net/net.rst:3
 msgid "disconnect"
-msgstr ""
+msgstr "未连接"
 
 #: ../net/net.rst:5
 msgid "status"
-msgstr ""
+msgstr "状态"
 
 #: ../net/net.rst:7
 msgid "connections"
-msgstr ""
+msgstr "连接"
 
