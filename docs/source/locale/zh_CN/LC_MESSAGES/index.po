@@ -33,6 +33,14 @@ msgid ""
 " of the platform. Under a multichain architecture, Armonia is poised to "
 "support at least one billion users worldwide."
 msgstr ""
+"**Armonia** 是子母链多链技术平台，"
+"**Armonia Meta Chain (AMC)** 为母链， "
+"支持其他子链(ACC). Armonia Meta Chain"
+"安全可靠，性能超强，"
+"同时兼备极低甚至为零的交易成本。平台支持资产双向跨链"
+"以及多种DAPP入驻。"
+"在多链架构下, Armonia"
+"以服务于未来数10亿全球用户为终极目标。"
 
 #: ../index.rst:8
 msgid "This project is under active development."
@@ -40,5 +48,5 @@ msgstr "项目在持续开发中"
 
 #: ../index.rst:11
 msgid "Contents"
-msgstr ""
+msgstr "内容"
 
