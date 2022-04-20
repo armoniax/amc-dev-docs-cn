@@ -24,10 +24,10 @@ msgstr "答疑"
 
 #: ../FAQ.rst:4
 msgid ""
-"`What kind of technology platform is Armonia? <FAQ/FAQ.html#What kind of "
+"`Armonia是什么样的技术平台？ <FAQ/FAQ.html#What kind of "
 "technology platform is Armonia?>`__"
 msgstr ""
-"Armonia是什么样的技术平台？'<FAQ/FAQ.html#What kind of technology platform is Armonia?>'__"
+
 
 #: ../FAQ.rst:7
 msgid ""
@@ -35,7 +35,9 @@ msgid ""
 "<FAQ/FAQ.html#Armonia is a multi-chain platform. How is the mother chain "
 "designed?>`__"
 msgstr ""
-"Armonia是一个多链架构平台，其中母链是怎样设计的？"
+"'Armonia是一个多链架构平台，其中母链是怎样设计的？"
+"<FAQ/FAQ.html#Armonia is a multi-chain platform. How is the mother chain "
+"designed?>`__"
 
 #: ../FAQ.rst:10
 msgid ""
