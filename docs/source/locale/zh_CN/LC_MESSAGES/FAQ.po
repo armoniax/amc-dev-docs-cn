@@ -24,10 +24,10 @@ msgstr "答疑"
 
 #: ../FAQ.rst:4
 msgid ""
-"`Armonia是什么样的技术平台？ <FAQ/FAQ.html#What kind of "
+"`What kind of technology platform is Armonia? <FAQ/FAQ.html#What kind of "
 "technology platform is Armonia?>`__"
 msgstr ""
-
+`Armonia是什么样的技术平台？<FAQ/FAQ.html#What kind of technology platform is Armonia?>`__
 
 #: ../FAQ.rst:7
 msgid ""
@@ -35,16 +35,16 @@ msgid ""
 "<FAQ/FAQ.html#Armonia is a multi-chain platform. How is the mother chain "
 "designed?>`__"
 msgstr ""
-"'Armonia是一个多链架构平台，其中母链是怎样设计的？"
-"<FAQ/FAQ.html#Armonia is a multi-chain platform. How is the mother chain "
-"designed?>`__"
+`Armonia是一个多链架构平台，其中母链是怎样设计的？<FAQ/FAQ.html#Armonia is a multi-chain platform. How is the mother chain 
+designed?>`__
 
 #: ../FAQ.rst:10
 msgid ""
 "`How are the child chains of Armonia designed? <FAQ/FAQ.html#How are the "
 "child chains of Armonia designed?>`__"
 msgstr ""
-"Armonia的子链是怎样设计的？"
+"`Armonia的子链是怎样设计的？<FAQ/FAQ.html#How are the "
+"child chains of Armonia designed?>`__"
 
 #: ../FAQ.rst:13
 msgid ""
@@ -53,7 +53,10 @@ msgid ""
 "multi-chain hierarchical structure used by Armonia, how to realize "
 "interconnection between chains?>`__"
 msgstr ""
-"对于Armonia运用的多链分层结构，链与链之间如何去实现万链互通？"
+"`对于Armonia运用的多链分层结构，"
+" 链与链之间如何去实现万链互通？<FAQ/FAQ.html#Regarding the "
+"multi-chain hierarchical structure used by Armonia, how to realize "
+"interconnection between chains?>`__"
 
 #: ../FAQ/FAQ.rst:2
 msgid "What kind of technology platform is Armonia?"
