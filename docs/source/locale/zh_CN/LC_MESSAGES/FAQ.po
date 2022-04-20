@@ -94,16 +94,22 @@ msgid ""
 "independent public chains such as Bitcoin can also be integrated into "
 "child chains, forming a multi-chain architecture altogether."
 msgstr ""
+"Armonia子链根据已有的L0 SDK快速搭建, "
+"可与母链同质或者异质。其他"
+"独立公链如比特币也可以与"
+"子链结合，形成多链架构。"
 
 #: ../FAQ/FAQ.rst:28
 msgid ""
 "Regarding the multi-chain hierarchical structure used by Armonia, how to "
 "realize interconnection between chains?"
 msgstr ""
+"对于Armonia运用的多链分层结构，链与链之间如何去实现万链互通？"
 
 #: ../FAQ/FAQ.rst:30
 msgid ""
 "Armonia provides L0-base as a general transaction routing module, which "
 "can quickly identify and process running nodes of a single chain."
 msgstr ""
+"Armonia提供L0-base作为通用交易路由模块，可快速甄别和处理单链的运行节点。"
 
