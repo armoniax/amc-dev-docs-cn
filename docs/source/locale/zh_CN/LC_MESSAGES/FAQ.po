@@ -27,7 +27,7 @@ msgid ""
 "`What kind of technology platform is Armonia? <FAQ/FAQ.html#What kind of "
 "technology platform is Armonia?>`__"
 msgstr ""
-"Armonia是什么样的技术平台？<FAQ/FAQ.html#What kind of technology platform is Armonia?>"
+"Armonia是什么样的技术平台？'<FAQ/FAQ.html#What kind of technology platform is Armonia?>'__"
 
 #: ../FAQ.rst:7
 msgid ""
