@@ -20,25 +20,25 @@ msgstr ""
 
 #: ../usage.rst:2
 msgid "installation"
-msgstr ""
+msgstr "安装"
 
 #: ../usage.rst:5
 msgid "install Armoniax node tools from source"
-msgstr ""
+msgstr "安装Armonia源代码中的节点工具"
 
 #: ../usage.rst:7
 msgid "if you first build, you should"
-msgstr ""
+msgstr "如果是首次安装，应"
 
 #: ../usage.rst:17
 msgid "else, you can use make -j instead"
-msgstr ""
+msgstr "或者使用make -j"
 
 #: ../usage.rst:20
 msgid "install from docker image"
-msgstr ""
+msgstr "使用docker镜像安装"
 
 #: ../usage.rst:22
 msgid "use below command to download offical docker image from docker hub"
-msgstr ""
+msgstr "按照如下指令从docker hub下载官方docker镜像"
 
