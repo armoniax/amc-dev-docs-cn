@@ -80,7 +80,7 @@ msgstr ""
 
 #: ../FAQ/FAQ.rst:13
 msgid "Armonia is a multi-chain platform. How is the mother chain designed?"
-msgstr ""
+msgstr "Armonia是一个多链架构平台，其中母链是怎样设计的？"
 
 #: ../FAQ/FAQ.rst:15
 msgid ""
@@ -88,10 +88,12 @@ msgid ""
 "machine and is designed with low transaction model and unique account "
 "model."
 msgstr ""
+"Armonia中的母链采用APoS共识机制和WASM虚拟机，"
+"以及低交易成本模型和特有的账户模型去完成设计。"
 
 #: ../FAQ/FAQ.rst:20
 msgid "How are the child chains of Armonia designed?"
-msgstr ""
+msgstr "Armonia的子链是怎样设计的？"
 
 #: ../FAQ/FAQ.rst:22
 msgid ""
