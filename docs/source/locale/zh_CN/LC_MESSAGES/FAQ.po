@@ -20,13 +20,13 @@ msgstr ""
 
 #: ../FAQ.rst:2
 msgid "FAQ"
-msgstr ""
+msgstr "答疑"
 
 #: ../FAQ.rst:4
 msgid ""
 "`What kind of technology platform is Armonia? <FAQ/FAQ.html#What kind of "
 "technology platform is Armonia?>`__"
-msgstr ""
+msgstr "Armonia是什么样的技术平台？"
 
 #: ../FAQ.rst:7
 msgid ""
