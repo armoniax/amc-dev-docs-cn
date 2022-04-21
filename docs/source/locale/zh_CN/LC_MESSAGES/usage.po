@@ -28,7 +28,7 @@ msgstr "安装Armonia源代码中的节点工具"
 
 #: ../usage.rst:7
 msgid "if you first build, you should"
-msgstr "如果是首次安装，应"
+msgstr "如果是首次安装，可以输入"
 
 #: ../usage.rst:17
 msgid "else, you can use make -j instead"
