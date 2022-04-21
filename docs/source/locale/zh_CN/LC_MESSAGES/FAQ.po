@@ -66,8 +66,8 @@ msgid ""
 msgstr ""
 "Armonia是由母链（Armonia Meta Chain）"
 "和其他同构或者异构的子链（Armonia Child Chain）并存，"
-" 母与子、子与子之间共同实现"
-" 高效资产双向跨链，"
+"母与子、子与子之间共同实现"
+"高效资产双向跨链，"
 "形成一个子母链架构的多链技术平台。"
 
 #: ../FAQ/FAQ.rst:13
