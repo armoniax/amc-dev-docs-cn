@@ -111,5 +111,42 @@ msgid ""
 "Armonia provides L0-base as a general transaction routing module, which "
 "can quickly identify and process running nodes of a single chain."
 msgstr ""
-"Armonia提供L0-base作为通用交易路由模块，可快速甄别和处理单链的运行节点。"
+"Armonia提供L0-base作为通用交易路由模块，"
+"可快速甄别和处理单链的运行节点。"
+
+#: ../FAQ/FAQ.rst:33
+msgid ""
+"In Armonia's multi-chain ecosystem, what are the possible"
+"application scenarios that can be built through the mother chain?"
+msgstr ""
+"在Armonia的多链生态体系中，"
+"通过母链可建设的应用场景大概有哪些？"  
+
+#: ../FAQ/FAQ.rst:37
+msgid ""
+"Assets in various ecosystems can be issued, transferred, traded," 
+"and exchanged quickly. Incentive mining pools for ecosystem development" 
+"will be built. Mother chain accounts support kyc/kyb" 
+"and upper-layer applications with regulatory requirements."
+msgstr ""
+"各生态中的资产可发行、转移和交易、"
+"快速兑换；各生态建设的激励矿池；" 
+"母链的账户支持kyc/kyb，"
+"支持有监管需求的上层应用等。"
+
+#: ../FAQ/FAQ.rst:37
+msgid ""
+"In the Armonia multi-chain ecosystem, what are the possible" 
+"application scenarios that can be constructed through child chains?" 
+msgstr ""
+"在Armonia的多链生态体系中，"
+"通过子链可建设的应用场景大概有哪些？" 
+
+#: ../FAQ/FAQ.rst:37
+msgid ""
+"Realize a high-performance, low-latency decentralized exchange;" 
+"implement a quiz-type application platform;" 
+"provide various chain games, NFTs and Metaverse, etc."
+msgstr ""
+  
 
