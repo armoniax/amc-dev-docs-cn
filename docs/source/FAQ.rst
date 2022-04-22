@@ -1,15 +1,14 @@
 FAQ
 ===
-
-1. `What kind of technology platform is
-   Armonia? <FAQ/FAQ.html#What kind of technology platform is Armonia?>`__
-
-2. `Armonia is a multi-chain platform. How is the mother chain
-   designed? <FAQ/FAQ.html#Armonia is a multi-chain platform. How is the mother chain designed?>`__
-
-3. `How are the child chains of Armonia
-   designed? <FAQ/FAQ.html#How are the child chains of Armonia designed?>`__
-
-4. `Regarding the multi-chain hierarchical structure used by Armonia,
-   how to realize interconnection between
-   chains? <FAQ/FAQ.html#Regarding the multi-chain hierarchical structure used by Armonia, how to realize interconnection between chains?>`__
+.. include:: FAQ/FAQ.rst 
+   :start-line: 0 
+   :end-line: 9
+.. include:: FAQ/FAQ.rst 
+   :start-line: 9 
+   :end-line: 16
+.. include:: FAQ/FAQ.rst 
+   :start-line: 16 
+   :end-line: 24
+.. include:: FAQ/FAQ.rst 
+   :start-line: 24 
+   :end-line: 30
