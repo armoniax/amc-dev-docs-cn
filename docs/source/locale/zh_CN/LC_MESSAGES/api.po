@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../api.rst:2
 msgid "Armonia Meta Chain API"
-msgstr ""
+msgstr "Armonia Meta Chain 应用程序接口"
 
 #: ../api.rst:5
 msgid "`chain api <chain/chain.html>`__"

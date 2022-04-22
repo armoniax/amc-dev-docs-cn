@@ -66,8 +66,8 @@ msgid ""
 msgstr ""
 "Armonia是由母链（Armonia Meta Chain）"
 "和其他同构或者异构的子链（Armonia Child Chain）并存，"
-" 母与子、子与子之间共同实现"
-" 高效资产双向跨链，"
+"母与子、子与子之间共同实现"
+"高效资产双向跨链，"
 "形成一个子母链架构的多链技术平台。"
 
 #: ../FAQ/FAQ.rst:13
@@ -106,10 +106,96 @@ msgid ""
 msgstr ""
 "对于Armonia运用的多链分层结构，链与链之间如何去实现万链互通？"
 
-#: ../FAQ/FAQ.rst:30
+#: ../FAQ/FAQ.rst:31
 msgid ""
 "Armonia provides L0-base as a general transaction routing module, which "
 "can quickly identify and process running nodes of a single chain."
 msgstr ""
-"Armonia提供L0-base作为通用交易路由模块，可快速甄别和处理单链的运行节点。"
+"Armonia提供L0-base作为通用交易路由模块，"
+"可快速甄别和处理单链的运行节点。"
+
+#: ../FAQ/FAQ.rst:35
+msgid ""
+"In Armonia's multi-chain ecosystem, what are the possible"
+"application scenarios that can be built through the mother chain?"
+msgstr ""
+"在Armonia的多链生态体系中，"
+"通过母链可建设的应用场景大概有哪些？"  
+
+#: ../FAQ/FAQ.rst:39
+msgid ""
+"Assets in various ecosystems can be issued, transferred, traded," 
+"and exchanged quickly. Incentive mining pools for ecosystem development" 
+"will be built. Mother chain accounts support kyc/kyb" 
+"and upper-layer applications with regulatory requirements."
+msgstr ""
+"各生态中的资产可发行、转移和交易、"
+"快速兑换；各生态建设的激励矿池；" 
+"母链的账户支持kyc/kyb，"
+"支持有监管需求的上层应用等。"
+
+#: ../FAQ/FAQ.rst:47
+msgid ""
+"In the Armonia multi-chain ecosystem, what are the possible" 
+"application scenarios that can be constructed through child chains?" 
+msgstr ""
+"在Armonia的多链生态体系中，"
+"通过子链可建设的应用场景大概有哪些？" 
+
+#: ../FAQ/FAQ.rst:51
+msgid ""
+"Realize a high-performance, low-latency decentralized exchange;" 
+"implement a quiz-type application platform;" 
+"provide various chain games, NFTs and Metaverse, etc."
+msgstr ""
+
+#: ../FAQ/FAQ.rst:57
+msgid ""
+"What are the total design amount and management mechanism" 
+"of the mother chain at present?" 
+msgstr ""
+ 
+#: ../FAQ/FAQ.rst:61
+msgid ""
+"The mother chain is currently designed with a total of" 
+"1,000,000,000 tokens governed by DAO and" 
+"adopts an ecosystem destruction mechanism."
+msgstr ""  
+
+#: ../FAQ/FAQ.rst:67
+msgid "Why does Armonia Meta Chain adopt a new blockchain consensus mechanism?" 
+msgstr ""
+
+#: ../FAQ/FAQ.rst:69
+msgid ""
+"The security and stability of Armonia Meta Chain is very important."
+"When a node is attacked, the entire network can still resume operation," 
+"while malicious nodes can be discovered and corrected"
+"and nodes that are not working can be replaced in time."
+msgstr ""
+
+#: ../FAQ/FAQ.rst:72
+msgid "What is the framework of APOS (Armonia DPOS) as the mother chain consensus mechanism?"
+msgstr ""
+
+#: ../FAQ/FAQ.rst:74
+msgid ""
+"The framework divides nodes into main nodes and backup nodes"
+"which mine main blocks and backup blocks respectively;"
+"one main and one backup interweave with each other to increase yields."
+msgstr ""
+
+#: ../FAQ/FAQ.rst:80
+msgid "Why can the double-chain structure of one main and one backup increase revenue?"
+msgstr ""
+
+#: ../FAQ/FAQ.rst:82
+msgid ""
+"One master and one backup chains can support 10,021 nodes"
+"to participate in mining, and each additional backup chain can"
+"add 10,000 backup chain mining nodes."
+msgstr ""
+
+
+  
 
