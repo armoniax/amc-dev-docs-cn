@@ -7,6 +7,8 @@ Efficient bidirectional cross-chain of assets is realized between mother
 chain and child chains as well as among the child chains, forming a
 mother-child multi-chain technology platform.
 
+.. _armonia-is-a-multi-chain-platform-how-is-the-mother-chain-designed:
+
 Armonia is a multi-chain platform. How is the mother chain designed?
 ====================================================================
 
