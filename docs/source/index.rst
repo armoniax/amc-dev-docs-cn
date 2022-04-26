@@ -14,7 +14,11 @@ Contents
    usage
    api
    FAQ
-   smart contract
+   smartcontract
+   modules
+   namespace
+   file
+   class
 ..
  comments these lines, needn't temporary
  .. include:: chain/chain.rst
